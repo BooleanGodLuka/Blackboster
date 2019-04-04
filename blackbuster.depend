@@ -1,0 +1,393 @@
+# depslib dependency file v1.0
+1535415813 source:c:\users\lditullio\desktop\archivos aislados\programas luca\blackboster\blackbuster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	"clases.h"
+	"directores.h"
+	"menues.h"
+
+1535416802 c:\users\lditullio\desktop\archivos aislados\programas luca\blackboster\blackbuster\directores.h
+	"menues.h"
+
+1534599327 c:\users\lditullio\desktop\archivos aislados\programas luca\blackboster\blackbuster\extras.h
+
+1535417663 c:\users\lditullio\desktop\archivos aislados\programas luca\blackboster\blackbuster\menues.h
+
+1535417412 c:\users\lditullio\desktop\archivos aislados\programas luca\blackboster\blackbuster\clases.h
+
+1542831000 source:c:\users\lditullio\desktop\luca\programas\blackboster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"menues.h"
+
+1542831000 c:\users\lditullio\desktop\luca\programas\blackboster\clases.h
+
+1542831000 c:\users\lditullio\desktop\luca\programas\blackboster\directores.h
+	"menues.h"
+
+1542846762 c:\users\lditullio\desktop\luca\programas\blackboster\menues.h
+	"peliculas.h"
+	"usuarios.h"
+
+1542837270 c:\users\lditullio\desktop\luca\programas\blackboster\peliculas.h
+
+1536839089 source:c:\users\administrador\desktop\blackboster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	"clases.h"
+	"directores.h"
+	"peliculas.h"
+	"menues.h"
+
+1536840985 c:\users\administrador\desktop\blackboster\clases.h
+
+1536839089 c:\users\administrador\desktop\blackboster\directores.h
+	"menues.h"
+
+1536839360 c:\users\administrador\desktop\blackboster\menues.h
+	"peliculas.h"
+
+1536839089 c:\users\administrador\desktop\blackboster\peliculas.h
+
+1539880305 source:c:\users\administrador\desktop\tp luca\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	"funciones_utiles.h"
+	"clases.h"
+	"directores.h"
+	"peliculas.h"
+	"menues.h"
+
+1539880305 c:\users\administrador\desktop\tp luca\funciones_utiles.h
+
+1539880684 c:\users\administrador\desktop\tp luca\clases.h
+
+1539880305 c:\users\administrador\desktop\tp luca\directores.h
+	"menues.h"
+
+1539880778 c:\users\administrador\desktop\tp luca\menues.h
+	"peliculas.h"
+
+1539880305 c:\users\administrador\desktop\tp luca\peliculas.h
+
+1542846755 c:\users\lditullio\desktop\luca\programas\blackboster\funciones_utiles.h
+
+1542723008 source:c:\users\administrador\desktop\luka\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"menues.h"
+
+1542736700 c:\users\administrador\desktop\luka\clases.h
+
+1542723008 c:\users\administrador\desktop\luka\funciones_utiles.h
+
+1542736209 c:\users\administrador\desktop\luka\directores.h
+	"menues.h"
+
+1542725036 c:\users\administrador\desktop\luka\menues.h
+	"peliculas.h"
+	"usuarios.h"
+
+1542736717 c:\users\administrador\desktop\luka\peliculas.h
+
+1542831000 c:\users\lditullio\desktop\luca\programas\blackboster\usuarios.h
+
+1550677006 source:c:\users\administrador\desktop\luca\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	<limits>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"clientes.h"
+	"reportes.h"
+	"menues.h"
+
+1550677006 c:\users\administrador\desktop\luca\clases.h
+
+1550677006 c:\users\administrador\desktop\luca\funciones_utiles.h
+
+1550677006 c:\users\administrador\desktop\luca\directores.h
+	"menues.h"
+
+1550679073 c:\users\administrador\desktop\luca\menues.h
+	"peliculas.h"
+	"usuarios.h"
+	"clientes.h"
+	"reportes.h"
+
+1550677006 c:\users\administrador\desktop\luca\peliculas.h
+
+1550677006 c:\users\administrador\desktop\luca\usuarios.h
+
+1542281556 source:c:\users\administrador\desktop\luxa\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"menues.h"
+
+1542292986 c:\users\administrador\desktop\luxa\clases.h
+
+1542281556 c:\users\administrador\desktop\luxa\funciones_utiles.h
+
+1542281556 c:\users\administrador\desktop\luxa\directores.h
+	"menues.h"
+
+1542294474 c:\users\administrador\desktop\luxa\menues.h
+	"peliculas.h"
+	"usuarios.h"
+
+1542293149 c:\users\administrador\desktop\luxa\peliculas.h
+
+1542293760 c:\users\administrador\desktop\luxa\usuarios.h
+
+1544067241 source:c:\users\admin\desktop\programas culeros\blackbuster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	<limits>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"clientes.h"
+	"menues.h"
+
+1544078428 c:\users\admin\desktop\programas culeros\blackbuster\clases.h
+
+1544076724 c:\users\admin\desktop\programas culeros\blackbuster\funciones_utiles.h
+
+1544076724 c:\users\admin\desktop\programas culeros\blackbuster\directores.h
+	"menues.h"
+
+1544078428 c:\users\admin\desktop\programas culeros\blackbuster\menues.h
+	"peliculas.h"
+	"usuarios.h"
+	"clientes.h"
+
+1544078428 c:\users\admin\desktop\programas culeros\blackbuster\peliculas.h
+
+1544074991 c:\users\admin\desktop\programas culeros\blackbuster\usuarios.h
+
+1542728274 c:\users\administrador\desktop\luka\usuarios.h
+
+1544076724 c:\users\admin\desktop\programas culeros\blackbuster\ventas.h
+
+1542831000 c:\users\lditullio\desktop\luca\programas\blackboster\ventas.h
+
+1545089693 source:c:\users\lditullio\desktop\luca\programa de prueba\bkp\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	<limits>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"clientes.h"
+	"reportes.h"
+	"menues.h"
+
+1545268437 c:\users\lditullio\desktop\luca\programa de prueba\bkp\clases.h
+
+1545257948 c:\users\lditullio\desktop\luca\programa de prueba\bkp\funciones_utiles.h
+
+1544745387 c:\users\lditullio\desktop\luca\programa de prueba\bkp\directores.h
+	"menues.h"
+
+1545268437 c:\users\lditullio\desktop\luca\programa de prueba\bkp\menues.h
+	"peliculas.h"
+	"usuarios.h"
+	"clientes.h"
+	"reportes.h"
+
+1545268480 c:\users\lditullio\desktop\luca\programa de prueba\bkp\peliculas.h
+
+1544475793 c:\users\lditullio\desktop\luca\programa de prueba\bkp\usuarios.h
+
+1545259222 c:\users\lditullio\desktop\luca\programa de prueba\bkp\ventas.h
+
+1545171839 c:\users\lditullio\desktop\luca\programa de prueba\bkp\clientes.h
+	"ventas.h"
+
+1544078428 c:\users\admin\desktop\programas culeros\blackbuster\clientes.h
+	"ventas.h"
+
+1545268489 c:\users\lditullio\desktop\luca\programa de prueba\bkp\reportes.h
+
+1545287040 source:c:\users\admin\desktop\blackbuster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	<limits>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"clientes.h"
+	"reportes.h"
+	"menues.h"
+
+1545289329 c:\users\admin\desktop\blackbuster\clases.h
+
+1545286492 c:\users\admin\desktop\blackbuster\funciones_utiles.h
+
+1545282056 c:\users\admin\desktop\blackbuster\directores.h
+	"menues.h"
+
+1545290744 c:\users\admin\desktop\blackbuster\menues.h
+	"peliculas.h"
+	"usuarios.h"
+	"clientes.h"
+	"reportes.h"
+
+1545283017 c:\users\admin\desktop\blackbuster\peliculas.h
+
+1545282412 c:\users\admin\desktop\blackbuster\usuarios.h
+
+1545289787 c:\users\admin\desktop\blackbuster\clientes.h
+	"ventas.h"
+
+1545289416 c:\users\admin\desktop\blackbuster\ventas.h
+
+1545289678 c:\users\admin\desktop\blackbuster\reportes.h
+
+1550693844 source:c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<wctype.h>
+	<ctime>
+	<conio.h>
+	<limits>
+	"clases.h"
+	"funciones_utiles.h"
+	"directores.h"
+	"usuarios.h"
+	"peliculas.h"
+	"ventas.h"
+	"clientes.h"
+	"reportes.h"
+	"menues.h"
+
+1550700190 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\clases.h
+
+1550693844 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\funciones_utiles.h
+
+1550693844 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\directores.h
+	"menues.h"
+
+1550702478 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\menues.h
+	"peliculas.h"
+	"usuarios.h"
+	"clientes.h"
+	"reportes.h"
+
+1550695316 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\peliculas.h
+
+1550693844 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\usuarios.h
+
+1550707841 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\clientes.h
+	"ventas.h"
+
+1550693844 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\ventas.h
+
+1550693844 c:\users\lditullio\desktop\luca\programas\blackboster\blackbuster\reportes.h
+
+1550677006 c:\users\administrador\desktop\luca\clientes.h
+	"ventas.h"
+
+1550678387 c:\users\administrador\desktop\luca\ventas.h
+
+1550677006 c:\users\administrador\desktop\luca\reportes.h
+
